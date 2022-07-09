@@ -1,8 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f930c05e_002D0ab0_002D4192_002Daf29_002D5d0bafca2aec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetFullAge_WithValue_ResultHasCorrectValue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::0A29DD6A-CC57-41D3-8D20-6834B9F1B339::net6.0::Web.Tests.Models.PersonTests&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::0A29DD6A-CC57-41D3-8D20-6834B9F1B339::net6.0::Web.Tests.Controllers.DummyControllerTests.GetPersons_ReturnOkObjectResult&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::0A29DD6A-CC57-41D3-8D20-6834B9F1B339::net6.0::Web.Tests.Controllers.DummyControllerTests.GetPersons_ReturnOkObjectResultWithPersons&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
