@@ -15,4 +15,8 @@
     <PackageReference Include="Nuke.Common" Version="6.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="logs" />
+  </ItemGroup>
+
 </Project>
