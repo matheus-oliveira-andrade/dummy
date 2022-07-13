@@ -6,8 +6,10 @@ on:
       - 'feat/*'
       - 'feature/*'
       - 'hotfix/*'
+      - 'master'
   pull_request:
-    branches: [ "master" ]
+    branches: 
+      - master
 
 jobs:
   build:
@@ -25,5 +27,5 @@ jobs:
     - name: Install nuke global tool
       run: dotnet tool install Nuke.GlobalTool --global
       
-    - name: Restore & Build e & Tests
+    - name: Restore & Build & Tests
       run: nuke
